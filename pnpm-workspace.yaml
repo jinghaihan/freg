@@ -1,0 +1,32 @@
+packages: []
+catalogs:
+  build:
+    unbuild: ^3.6.1
+  cli:
+    bumpp: ^10.3.1
+    pncat: ^0.7.0
+    taze: ^19.7.0
+  lint:
+    '@antfu/eslint-config': ^6.0.0
+    eslint: ^9.37.0
+    lint-staged: ^16.2.4
+    simple-git-hooks: ^2.13.1
+  network:
+    undici: ^7.16.0
+  node:
+    '@clack/prompts': ^0.11.0
+    ansis: ^4.2.0
+    cac: ^6.7.14
+    pathe: ^2.0.3
+    tinyexec: ^1.0.1
+    unconfig: ^7.3.3
+  script:
+    tsx: ^4.20.6
+  test:
+    vitest: ^3.2.4
+  tsc:
+    typescript: ^5.9.3
+  types:
+    '@types/node': ^24.7.2
+  utils:
+    '@antfu/utils': ^9.3.0
